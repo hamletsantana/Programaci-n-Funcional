@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\obj\Debug\net5.0\Naturals Counter.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\obj\Debug\net5.0\Naturals Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\obj\Debug\net5.0\Naturals Counter.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\obj\Debug\net5.0\Naturals Counter.AssemblyInfo.cs
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\obj\Debug\net5.0\Naturals Counter.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\bin\Debug\net5.0\Naturals Counter.exe
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\bin\Debug\net5.0\Naturals Counter.deps.json
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\bin\Debug\net5.0\Naturals Counter.runtimeconfig.json
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\bin\Debug\net5.0\Naturals Counter.runtimeconfig.dev.json
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\bin\Debug\net5.0\Naturals Counter.dll
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\bin\Debug\net5.0\ref\Naturals Counter.dll
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\bin\Debug\net5.0\Naturals Counter.pdb
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\obj\Debug\net5.0\Naturals Counter.dll
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\obj\Debug\net5.0\ref\Naturals Counter.dll
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\obj\Debug\net5.0\Naturals Counter.pdb
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Naturals Counter\obj\Debug\net5.0\Naturals Counter.genruntimeconfig.cache
