@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\obj\Debug\net5.0\Primes Counter.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\obj\Debug\net5.0\Primes Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\obj\Debug\net5.0\Primes Counter.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\obj\Debug\net5.0\Primes Counter.AssemblyInfo.cs
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\obj\Debug\net5.0\Primes Counter.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\bin\Debug\net5.0\Primes Counter.exe
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\bin\Debug\net5.0\Primes Counter.deps.json
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\bin\Debug\net5.0\Primes Counter.runtimeconfig.json
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\bin\Debug\net5.0\Primes Counter.runtimeconfig.dev.json
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\bin\Debug\net5.0\Primes Counter.dll
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\bin\Debug\net5.0\ref\Primes Counter.dll
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\bin\Debug\net5.0\Primes Counter.pdb
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\obj\Debug\net5.0\Primes Counter.dll
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\obj\Debug\net5.0\ref\Primes Counter.dll
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\obj\Debug\net5.0\Primes Counter.pdb
+C:\Users\Toshiba\Documents\Clase Programación\Programación Funcional\Primes Counter\obj\Debug\net5.0\Primes Counter.genruntimeconfig.cache
